@@ -10,3 +10,6 @@ def driver1():
     yield driver12
 
     driver12.quit()
+
+def drever2():
+    pass
